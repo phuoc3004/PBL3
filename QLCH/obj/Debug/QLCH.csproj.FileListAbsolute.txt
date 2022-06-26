@@ -1,0 +1,316 @@
+D:\HUU ANH\C#\QLCH\QLCH\bin\Debug\QLCH.exe.config
+D:\HUU ANH\C#\QLCH\QLCH\bin\Debug\QLCH.exe
+D:\HUU ANH\C#\QLCH\QLCH\bin\Debug\QLCH.pdb
+D:\HUU ANH\C#\QLCH\QLCH\obj\Debug\QLCH.csproj.AssemblyReference.cache
+D:\HUU ANH\C#\QLCH\QLCH\obj\Debug\QLCH.csproj.SuggestedBindingRedirects.cache
+D:\HUU ANH\C#\QLCH\QLCH\obj\Debug\QLCH.Login.resources
+D:\HUU ANH\C#\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+D:\HUU ANH\C#\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.cache
+D:\HUU ANH\C#\QLCH\QLCH\obj\Debug\QLCH.csproj.CoreCompileInputs.cache
+D:\HUU ANH\C#\QLCH\QLCH\obj\Debug\QLCH.exe
+D:\HUU ANH\C#\QLCH\QLCH\obj\Debug\QLCH.pdb
+D:\HUU ANH\C#\QLCH\QLCH\obj\Debug\QLCH.Form2.resources
+D:\HUU ANH\C#\QLCH\QLCH\obj\Debug\QLCH.csproj.CopyComplete
+D:\HUU ANH\C#\QLCH\QLCH\obj\Debug\QLCH.Controller.BillController.resources
+D:\HUU ANH\C#\QLCH\QLCH\obj\Debug\QLCH.NhanVien.resources
+D:\HUU ANH\C#\QLCH\QLCH\obj\Debug\QLCH.UserControl1.resources
+D:\HUU ANH\C#\QLCH\QLCH\bin\Debug\Guna.UI2.dll
+D:\HUU ANH\C#\QLCH\QLCH\obj\Debug\QLCH.Saler.resources
+D:\C#\QLCH\QLCH\bin\Debug\QLCH.exe.config
+D:\C#\QLCH\QLCH\bin\Debug\QLCH.exe
+D:\C#\QLCH\QLCH\bin\Debug\QLCH.pdb
+D:\C#\QLCH\QLCH\bin\Debug\Guna.UI2.dll
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.csproj.AssemblyReference.cache
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.csproj.SuggestedBindingRedirects.cache
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.Controller.BillController.resources
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.Form2.resources
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.Login.resources
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.Saler.resources
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.cache
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.csproj.CoreCompileInputs.cache
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.csproj.CopyComplete
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.exe
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.pdb
+D:\C#\QLCH\QLCH\bin\Debug\Azure.Core.dll
+D:\C#\QLCH\QLCH\bin\Debug\Azure.Identity.dll
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.Identity.Client.dll
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.Buffers.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.Data.SqlClient.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.Memory.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.Numerics.Vectors.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.Security.AccessControl.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.Security.Permissions.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.Security.Principal.Windows.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.Text.Encodings.Web.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.Text.Json.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#\QLCH\QLCH\bin\Debug\System.ValueTuple.dll
+D:\C#\QLCH\QLCH\bin\Debug\Azure.Core.xml
+D:\C#\QLCH\QLCH\bin\Debug\Azure.Identity.xml
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.Identity.Client.xml
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\C#\QLCH\QLCH\bin\Debug\System.Buffers.xml
+D:\C#\QLCH\QLCH\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\C#\QLCH\QLCH\bin\Debug\System.Data.SqlClient.xml
+D:\C#\QLCH\QLCH\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\C#\QLCH\QLCH\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\C#\QLCH\QLCH\bin\Debug\System.Memory.xml
+D:\C#\QLCH\QLCH\bin\Debug\System.Numerics.Vectors.xml
+D:\C#\QLCH\QLCH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\QLCH\QLCH\bin\Debug\System.Security.AccessControl.xml
+D:\C#\QLCH\QLCH\bin\Debug\System.Security.Permissions.xml
+D:\C#\QLCH\QLCH\bin\Debug\System.Security.Principal.Windows.xml
+D:\C#\QLCH\QLCH\bin\Debug\System.Text.Encodings.Web.xml
+D:\C#\QLCH\QLCH\bin\Debug\System.Text.Json.xml
+D:\C#\QLCH\QLCH\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#\QLCH\QLCH\bin\Debug\System.ValueTuple.xml
+D:\C#\QLCH\QLCH\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C#\QLCH\QLCH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C#\QLCH\QLCH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C#\QLCH\QLCH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C#\QLCH\QLCH\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C#\QLCH\QLCH\bin\Debug\EnvDTE.dll
+D:\C#\QLCH\QLCH\bin\Debug\stdole.dll
+D:\C#\QLCH\QLCH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\QLCH\QLCH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.Controller.InHoaDon.resources
+D:\C#\QLCH\QLCH\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\C#\QLCH\QLCH\bin\Debug\Bunifu.Licensing.dll
+D:\C#\QLCH\QLCH\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.Controller.HomePageManager.resources
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.Controller.HomePageSaler.resources
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.Controller.HoTroControll.resources
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.Controller.KhachHangPageManager.resources
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.Controller.NhanVienPageManager.resources
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.Controller.SanPhamPageManager.resources
+D:\C#\QLCH\QLCH\bin\Debug\EntityFramework.dll
+D:\C#\QLCH\QLCH\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\QLCH\QLCH\bin\Debug\EntityFramework.xml
+D:\C#\QLCH\QLCH\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.Controll.ChangePass.resources
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.Controll.ProfilePageControll.resources
+D:\C#\QLCH\QLCH\obj\Debug\QLCH.Controll.DoanhThuControll.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe.config
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\QLCH.pdb
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Azure.Core.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Azure.Identity.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\EntityFramework.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Guna.UI2.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Buffers.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Memory.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Security.Permissions.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Text.Json.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.ValueTuple.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Bunifu.Licensing.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\EnvDTE.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\stdole.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Azure.Core.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Azure.Identity.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\EntityFramework.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Buffers.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Memory.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Security.Permissions.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Text.Json.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\System.ValueTuple.xml
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.Controller.BillController.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.Controll.ChangePass.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.Controll.DoanhThuControll.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.Controller.HomePageManager.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.Controller.HomePageSaler.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.Controller.HoTroControll.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.Controller.InHoaDon.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.Controller.KhachHangPageManager.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.Controller.NhanVienPageManager.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.Controll.ProfilePageControll.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.Controller.SanPhamPageManager.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.Form2.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.Login.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.Saler.resources
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.exe
+C:\Users\ACER\OneDrive\Máy tính\DUT\QLCH\QLCH\QLCH\obj\Debug\QLCH.pdb
